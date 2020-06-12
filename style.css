@@ -1,0 +1,33 @@
+.grid {
+    display: grid;
+    max-width: 256 * 5px;
+    grid-template-rows: repeat(2, 256px);
+    grid-template-columns: repeat(5, 256px);
+    grid-gap: 50px 20px;
+}
+
+span {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#result {
+    display: block;
+    color: green;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 60px;
+}
+
+h1,
+span {
+    font-family: Helvetica;
+    padding: 10px;
+}
+
+@media (max-width: 962px) {
+    .grid {
+        grid-template-rows: repeat(5, 256px);
+        grid-template-columns: repeat(2, 256px);
+    }
+}
