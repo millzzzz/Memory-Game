@@ -3,7 +3,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/5a2c10d2-f907-4212-bd8d-912d935a3346/deploy-status)](https://app.netlify.com/sites/play-memory-game/deploys)
 
 
-A trivial memory game to interest your smaller ones with 👨‍👩‍👦‍👦 [Click to play](play-memory-game.netlify.app)
+A trivial memory game to interest your smaller ones with 👨‍👩‍👦‍👦 [Click to play](https://play-memory-game.netlify.app/)
 
 Your goal is to find a matching pair and finish all of them as soon as possible
 
